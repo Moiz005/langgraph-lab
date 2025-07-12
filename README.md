@@ -17,8 +17,8 @@ This repository is part of my journey to master [LangGraph](https://www.langchai
 | Intermediate | `guessing_game`           | A looped guessing game where the agent narrows its guesses over attempts.  |
 | Intermediate | `chat_loop_gpt4o`         | Stateless chatbot using OpenAI GPT-4o in a simple LangGraph.               |
 | Intermediate | `chat_with_memory_logger` | Chatbot with conversation memory that logs messages to a text file.        |
-| Advanced     | `tool_use_agent`          | Agent that uses tools (e.g., add) via `ToolNode` and loops intelligently.  |
-| Advanced     | `document_drafter_agent`  | Full-fledged tool-using agent for document editing and saving with memory. |
+| Intermediate | `tool_use_agent`          | Agent that uses tools (e.g., add) via `ToolNode` and loops intelligently.  |
+| Intermediate | `document_drafter_agent`  | Full-fledged tool-using agent for document editing and saving with memory. |
 
 ---
 
