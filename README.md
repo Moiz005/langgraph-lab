@@ -33,7 +33,7 @@ This repository is part of my journey to master [LangGraph](https://www.langchai
 Install dependencies:
 
 ```bash
-pip install langgraph langchain langchain_openai
+pip install langchain langchain_core langchain_community langchain_openai langgraph transformers
 ```
 
 ---
@@ -58,11 +58,11 @@ langgraph-projects/
 │   ├── conditional_arithmetic.py
 │   ├── guessing_game.py
 │   ├── chat_loop_gpt4o.py
-│   └── chat_with_memory_logger.py
+│   ├── chat_with_memory_logger.py
+|   └── document_drafter_agent.py
 │
 ├── advanced/
-│   ├── tool_use_agent.py
-│   └── document_drafter_agent.py
+│   └── AIEthicalDiscourse
 │
 └── README.md
 ```
