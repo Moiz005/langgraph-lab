@@ -19,7 +19,7 @@ This repository is part of my journey to master [LangGraph](https://www.langchai
 | Intermediate | `chat_with_memory_logger` | Chatbot with conversation memory that logs messages to a text file.        |
 | Intermediate | `tool_use_agent`          | Agent that uses tools (e.g., add) via `ToolNode` and loops intelligently.  |
 | Intermediate | `document_drafter_agent`  | Full-fledged tool-using agent for document editing and saving with memory. |
-
+| Advanced     | `AIEthicalDiscourse`      | It simulates a respectful debate between two AI agents on topics like AI regulation, using LangChain and LangGraph with toxicity checks to ensure ethical, human-like dialogue.|
 ---
 
 ## 📦 Requirements
