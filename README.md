@@ -20,6 +20,7 @@ This repository is part of my journey to master [LangGraph](https://www.langchai
 | Intermediate | `tool_use_agent`          | Agent that uses tools (e.g., add) via `ToolNode` and loops intelligently.  |
 | Intermediate | `document_drafter_agent`  | Full-fledged tool-using agent for document editing and saving with memory. |
 | Advanced     | `AIEthicalDiscourse`      | It simulates a respectful debate between two AI agents on topics like AI regulation, using LangChain and LangGraph with toxicity checks to ensure ethical, human-like dialogue.|
+| Advanced     | `research-team-sim`       | A multi-agent system built in LangGraph that simulates a research team to read, analyze, and summarize scientific papers using AI agents with distinct roles and memory types.|
 ---
 
 ## 📦 Requirements
@@ -76,3 +77,4 @@ Exploring agentic AI, LangChain, and graph-based workflows.
 Reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-moiz-49aa4a239/) or follow my GitHub for more AI projects.
 
 ---
+
